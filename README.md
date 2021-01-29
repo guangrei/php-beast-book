@@ -1,6 +1,6 @@
 [php-beast](https://github.com/liexusong/php-beast) adalah php extensions yang berfungsi untuk mengenkripsi script php seperti  **ioncube** &  **zendguard** tapi memiliki fitur yang lebih lengkap dan gratis.
 
- **table of contents:** 
+ ### table of contents:
 
 - [INSTALLASI Windows](https://github.com/guangrei/php-beast-book/blob/main/Windows.md)
 
