@@ -6,7 +6,7 @@
 
 - [INSTALLASI Windows](https://github.com/guangrei/php-beast-book/blob/main/Windows.md)
 
-- INSTALLASI Linux (coming soon) 
+- [INSTALLASI Linux](https://github.com/guangrei/php-beast-book/blob/main/Linux.md)
 
 - [Enkripsi Script](https://github.com/guangrei/php-beast-book/blob/main/Enkripsi.md)
 
