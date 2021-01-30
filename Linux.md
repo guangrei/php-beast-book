@@ -13,7 +13,7 @@ $ sudo make && make install
 ```
 2. tambahkan  `extension=beast.so` pada  `php.ini` lalu restart server.
 
-4. konfigurasi lanjutan juga dapat ditambahkan pada php.ini untuk meningkatkan performa dll
+3. konfigurasi lanjutan juga dapat ditambahkan pada php.ini untuk meningkatkan performa dll
 
 beriku ini konfigurasinya:
 
